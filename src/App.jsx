@@ -1,4 +1,4 @@
-
+import Home from "./Home"
 
 
 const App = () =>{
@@ -6,7 +6,7 @@ const App = () =>{
     <section>
       <h1>Are you like me?</h1>
 
-      
+      <Home />
     </section>
   )
 }
